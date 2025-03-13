@@ -1,5 +1,3 @@
-## 👋 About Me  
-
 Hi, I'm **Pujan Chitalia**, passionate for **Quantitative Research** with a strong background in **Finance, Statistics, and Machine Learning**. I am currently pursuing my **Master’s in Financial Mathematics at the University of Chicago**, where I am deepening my expertise in **quantitative finance, risk management, and algorithmic trading**.  
 
 ### 🎯 Interests & Focus Areas:  
