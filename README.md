@@ -13,10 +13,10 @@ Hi, I'm **Pujan Chitalia**, passionate for **Quantitative Research** with a stro
 🔹 **Algorithmic Trading & Market Microstructure** – Researching statistical arbitrage and alpha generation
 
 ### 💻 Technical Skills:  
-🚀 **Programming:** Python, C++, SQL, VBA, R Studio
-📊 **Financial Modeling:** Portfolio Optimization, Monte Carlo Simulations, Stochastic Processes 
-📈 **Machine Learning:** Supervised and Unsupervised Machine Learning methods
-⚡ **Risk & Analytics:** Fixed Income, Derivatives, Liquidity & Market Risk
+🚀 **Programming:** Python, C++, SQL, VBA, R Studio.   
+📊 **Financial Modeling:** Portfolio Optimization, Monte Carlo Simulations, Stochastic Processes.   
+📈 **Machine Learning:** Supervised and Unsupervised Machine Learning methods.   
+⚡ **Risk & Analytics:** Fixed Income, Derivatives, Liquidity & Market Risk.   
 
 ### 🏆 Experience & Projects:  
 ✅ **Quantitative Research Intern @ Manteio Capital** – Designed and backtested a **statistical arbitrage trading strategy** using **XGBoost** on Russell 1000-SPY residuals.  
